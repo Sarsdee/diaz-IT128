@@ -1,0 +1,10 @@
+C:\Users\Sarah\Source\Repos\DiazLE2\DiazBlogDB\bin\Debug\DiazBlogDB.dacpac
+C:\Users\Sarah\Source\Repos\DiazLE2\DiazBlogDB\bin\Debug\DiazBlogDB.dll
+C:\Users\Sarah\Source\Repos\DiazLE2\DiazBlogDB\bin\Debug\DiazBlogDB.pdb
+C:\Users\Sarah\Source\Repos\DiazLE2\DiazBlogDB\obj\Debug\DiazBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Sarah\Source\Repos\DiazLE2\DiazBlogDB\obj\Debug\DiazBlogDB.dll
+C:\Users\Sarah\Source\Repos\DiazLE2\DiazBlogDB\obj\Debug\DiazBlogDB.pdb
+C:\Users\Sarah\Source\Repos\DiazLE2\DiazBlogDB\obj\Debug\Model.xml
+C:\Users\Sarah\Source\Repos\DiazLE2\DiazBlogDB\obj\Debug\refactor.xml
+C:\Users\Sarah\Source\Repos\DiazLE2\DiazBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Sarah\Source\Repos\DiazLE2\DiazBlogDB\obj\Debug\predeploy.sql
