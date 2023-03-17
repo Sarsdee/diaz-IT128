@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DiazLE2",
+    "\\DiazLE2\\BlogDataLibrary",
+    "\\DiazLE2\\BlogTestUI"
   ],
+  "SelectedNode": "\\DiazLE2\\BlogTestUI\\BlogTestUI.sln",
   "PreviewInSolutionExplorer": false
 }

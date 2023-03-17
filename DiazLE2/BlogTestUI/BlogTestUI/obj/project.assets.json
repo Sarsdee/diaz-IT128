@@ -584,11 +584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sarah\\Source\\Repos\\BlogTestUI\\BlogTestUI\\BlogTestUI.csproj",
+      "projectUniqueName": "C:\\Users\\Sarah\\Source\\Repos\\Sarsdee\\diaz-IT128\\DiazLE2\\BlogTestUI\\BlogTestUI\\BlogTestUI.csproj",
       "projectName": "BlogTestUI",
-      "projectPath": "C:\\Users\\Sarah\\Source\\Repos\\BlogTestUI\\BlogTestUI\\BlogTestUI.csproj",
+      "projectPath": "C:\\Users\\Sarah\\Source\\Repos\\Sarsdee\\diaz-IT128\\DiazLE2\\BlogTestUI\\BlogTestUI\\BlogTestUI.csproj",
       "packagesPath": "C:\\Users\\Sarah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sarah\\Source\\Repos\\BlogTestUI\\BlogTestUI\\obj\\",
+      "outputPath": "C:\\Users\\Sarah\\Source\\Repos\\Sarsdee\\diaz-IT128\\DiazLE2\\BlogTestUI\\BlogTestUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sarah\\AppData\\Roaming\\NuGet\\NuGet.Config",
